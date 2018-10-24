@@ -7,7 +7,15 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 ## 📝 Index
 
 - [RESTful API](#restful-api)
+- [GUI](#gui)
 
+
+## GUI
+
+Libraries for working with graphical user interface applications.
+
++ [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
++ [remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet. 
 
 ## RESTful API
 
