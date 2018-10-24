@@ -4,6 +4,8 @@ _[Creative Commons License Compatibility](https://github.com/Catacrockers/awesom
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
+## 📝 Index
+
 - [RESTful API](#restful-api)
 
 
