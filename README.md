@@ -4,3 +4,9 @@ _[Creative Commons License Compatibility](https://github.com/Catacrockers/awesom
 
 
 A curated list of awesome frameworks, libraries, software and resources
+
+
+## 📝 Index
+
+- [C/C++](https://github.com/Catacrockers/awesome-catacrockers/blob/master/Awesome-C+C++.md)
+- [Python](https://github.com/Catacrockers/awesome-catacrockers/blob/master/Awesome-Python.md)
