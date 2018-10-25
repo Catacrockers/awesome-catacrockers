@@ -6,6 +6,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
+- [Concurrency and Parallelism](#concurrency-and-parallelism)
 - [Configuration](#configuration)
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
@@ -16,6 +17,12 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Utilities](#utilities)
 - [Web Frameworks](#web-frameworks)
 - [WSGI Servers](#wsgi-servers)
+
+## Concurrency and parallelism
+
+*Libraries for concurrent and parallel execution.*
+
+- [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
 ## Configuration
 
