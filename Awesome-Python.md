@@ -9,6 +9,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
 - [HTTP](#http)
+- [Reactive programming](#reactive-programming)
 - [RESTful API](#restful-api)
 
 
@@ -45,6 +46,8 @@ Libraries for working with HTTP.
   - [hug](https://github.com/timothycrosley/hug) - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
   
 ## Reactive programming
+
+*Functional Programming with Python.*
 
 - [rxpy](https://github.com/ReactiveX/RxPY) - 
 A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
