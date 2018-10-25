@@ -6,7 +6,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
-- [Configuration](#configration)
+- [Configuration](#configuration)
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
 - [HTTP](#http)
