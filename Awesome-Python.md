@@ -11,6 +11,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [HTTP](#http)
 - [Reactive programming](#reactive-programming)
 - [RESTful API](#restful-api)
+- [Web Frameworks](#web-frameworks)
 
 
 ## Command-line Tools
@@ -51,3 +52,9 @@ Libraries for working with HTTP.
 
 - [rxpy](https://github.com/ReactiveX/RxPY) - 
 A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
+
+## Web Frameworks
+
+*Full stack web frameworks.*
+
+- [Flask](http://flask.pocoo.org/) - A microframework for Python.
