@@ -6,6 +6,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
+- [Code Analysis](#code-analysis)
 - [Configuration](#configuration)
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
@@ -13,8 +14,15 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Logging](#logging)
 - [Reactive programming](#reactive-programming)
 - [RESTful API](#restful-api)
+- [Testing](#testing)
 - [Utilities](#utilities)
 - [Web Frameworks](#web-frameworks)
+
+## Code Analysis
+
+*Tools of static analysis, linters and code quality checkers.*
+
+- [Pylint](https://www.pylint.org/) - A fully customizable source code analyzer. Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 
 ## Configuration
 
@@ -64,14 +72,12 @@ Libraries for working with HTTP.
 - [rxpy](https://github.com/ReactiveX/RxPY) - 
 A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
-## Utilities
+## Testing
 
-General purpose libraries for making software developing a better experience.
+*Libraries for testing codebases and generating test data.*
 
-+ Tetsing
-  - [Pytest](https://docs.pytest.org/en/latest/) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
-+ Linting
-  - [Pylint](https://www.pylint.org/) - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
++ Testing Frameworks
+  - [Pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool. The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
 ## Web Frameworks
 
