@@ -13,4 +13,4 @@ A curated list of awesome C/C++ frameworks, libraries, software and resources.
 
 *Libraries for generating and working with logs.*
 
-- [minilogger](https://github.com/RDCH106/miniLogger) - C++ logger with logging levels and low footprint 
++ [minilogger](https://github.com/RDCH106/miniLogger) - C++ logger with logging levels and low footprint 
