@@ -6,6 +6,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
+- [Configuration](#configration)
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
 - [HTTP](#http)
@@ -14,6 +15,9 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [RESTful API](#restful-api)
 - [Web Frameworks](#web-frameworks)
 
+## Configuration
+
+- [Aumbry](https://aumbry.readthedocs.io/en/latest/) - general purpose library for handling configuration within your Python applications. The project was born from constantly needing a simple interface for configuration models that came from multiple data sources.
 
 ## Command-line Tools
 
