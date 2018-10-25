@@ -15,6 +15,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [RESTful API](#restful-api)
 - [Utilities](#utilities)
 - [Web Frameworks](#web-frameworks)
+- [WSGI Servers](#wsgi-servers)
 
 ## Configuration
 
@@ -78,3 +79,8 @@ General purpose libraries for making software developing a better experience.
 *Full stack web frameworks.*
 
 - [Flask](http://flask.pocoo.org/) - A microframework for Python.
+
+## WSGI Servers
+
+- [gunicorn](https://gunicorn.org/) - Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
+
