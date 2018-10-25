@@ -9,6 +9,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
 - [HTTP](#http)
+- [Logging](#logging)
 - [Reactive programming](#reactive-programming)
 - [RESTful API](#restful-api)
 - [Web Frameworks](#web-frameworks)
@@ -34,6 +35,10 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 Libraries for working with HTTP.
 
 + [requests](http://docs.python-requests.org/en/latest/) - HTTP Requests for Humans™.
+
+## Logging
+
+- [Structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
 
 ## RESTful API
 
