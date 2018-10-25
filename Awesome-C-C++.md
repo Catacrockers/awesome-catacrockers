@@ -5,3 +5,12 @@ _[Creative Commons License Compatibility](https://github.com/Catacrockers/awesom
 A curated list of awesome C/C++ frameworks, libraries, software and resources.
 
 ## 📝 Index
+
+- [Logging](#logging)
+
+
+## Logging
+
+*Libraries for generating and working with logs.*
+
+- [minilogger](https://github.com/RDCH106/miniLogger) - C++ logger with logging levels and low footprint 
