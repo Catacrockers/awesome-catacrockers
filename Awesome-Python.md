@@ -7,6 +7,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 ## 📝 Index
 
 - [Code Analysis](#code-analysis)
+- [Concurrency and Parallelism](#concurrency-and-parallelism)
 - [Configuration](#configuration)
 - [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
@@ -17,6 +18,13 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Testing](#testing)
 - [Utilities](#utilities)
 - [Web Frameworks](#web-frameworks)
+- [WSGI Servers](#wsgi-servers)
+
+## Concurrency and parallelism
+
+*Libraries for concurrent and parallel execution.*
+
+- [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
 ## Code Analysis
 
@@ -84,3 +92,9 @@ A library for composing asynchronous and event-based programs using observable c
 *Full stack web frameworks.*
 
 - [Flask](http://flask.pocoo.org/) - A microframework for Python.
+
+## WSGI Servers
+
+- [gunicorn](https://gunicorn.org/) - Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX. It's a pre-fork worker model. The Gunicorn server is broadly compatible with various web frameworks, simply implemented, light on server resources, and fairly speedy.
+- [waitress](https://github.com/Pylons/waitress) - Waitress is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones which live in the Python standard library.
+
