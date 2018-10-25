@@ -20,6 +20,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 + Productivity Tools
   - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
+  - [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages.
 
 ## GUI
 
