@@ -6,10 +6,18 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
+- [Command-line Tools](#command-line-tools)
 - [GUI](#gui)
 - [HTTP](#http)
 - [RESTful API](#restful-api)
 
+
+## Command-line Tools
+
+*Libraries for building command-line application.*
+
++ Productivity Tools
+  - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
 
 ## GUI
 
@@ -39,4 +47,4 @@ Libraries for working with HTTP.
 ## Reactive programming
 
 - [rxpy](https://github.com/ReactiveX/RxPY) - 
-A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python
+A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
