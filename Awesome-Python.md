@@ -35,3 +35,8 @@ Libraries for working with HTTP.
 + Framework agnostic
   - [falcon](http://falconframework.org/) - A high-performance framework for building cloud APIs and web app backends.
   - [hug](https://github.com/timothycrosley/hug) - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
+  
+## Reactive programming
+
+- [rxpy](https://github.com/ReactiveX/RxPY) - 
+A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python
