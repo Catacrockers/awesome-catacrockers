@@ -60,7 +60,8 @@ Libraries for working with HTTP.
 
 ## Logging
 
-- [Structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
+- [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
+- [structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
 
 ## RESTful API
 
