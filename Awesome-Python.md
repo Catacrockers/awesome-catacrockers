@@ -6,20 +6,21 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 ## 📝 Index
 
-- [Code Analysis](#code-analysis)
-- [Concurrency and Parallelism](#concurrency-and-parallelism)
-- [Configuration](#configuration)
-- [Command-line Tools](#command-line-tools)
-- [Event Driven Programming](#event-driven-programming)
-- [GUI](#gui)
-- [HTTP](#http)
-- [Logging](#logging)
-- [Reactive programming](#reactive-programming)
-- [RESTful API](#restful-api)
-- [Testing](#testing)
-- [Utilities](#utilities)
-- [Web Frameworks](#web-frameworks)
-- [WSGI Servers](#wsgi-servers)
++ [Code Analysis](#code-analysis)
++ [Concurrency and Parallelism](#concurrency-and-parallelism)
++ [Configuration](#configuration)
++ [Command-line Tools](#command-line-tools)
++ [GUI](#gui)
++ [HTTP](#http)
++ [Logging](#logging)
++ [Programming Paradigms](#programming-paradigms)
+  - [Event Driven Programming](#event-driven-programming)
+  - [Reactive programming](#reactive-programming)
++ [RESTful API](#restful-api)
++ [Testing](#testing)
++ [Utilities](#utilities)
++ [Web Frameworks](#web-frameworks)
++ [WSGI Servers](#wsgi-servers)
 
 ## Concurrency and parallelism
 
@@ -45,13 +46,6 @@ A curated list of awesome Python frameworks, libraries, software and resources.
   - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
   - [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages.
 
-## Event Driven Programming
-
-*Libraries for building event driven software architecture.*
-
-+ [paho-mqtt](https://pypi.org/project/paho-mqtt/) - Client for mqtt protocol
-+ [pytransitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented state machine implementation in Python.
-
 ## GUI
 
 *Libraries for working with graphical user interface applications.*
@@ -72,6 +66,22 @@ Libraries for working with HTTP.
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
 
+## Programming Paradigms
+
+## Event Driven Programming
+
+*Event driven Programming with Python.*
+
++ [paho-mqtt](https://pypi.org/project/paho-mqtt/) - Client for mqtt protocol
++ [pytransitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented state machine implementation in Python.
+
+### Reactive Programming
+
+*Reactive Programming with Python.*
+
+- [rxpy](https://github.com/ReactiveX/RxPY) - 
+A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
+
 ## RESTful API
 
 *Libraries for developing RESTful APIs.*
@@ -83,13 +93,6 @@ Libraries for working with HTTP.
 + Framework agnostic
   - [falcon](http://falconframework.org/) - A high-performance framework for building cloud APIs and web app backends.
   - [hug](https://github.com/timothycrosley/hug) - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
-  
-## Reactive programming
-
-*Reactive Programming with Python.*
-
-- [rxpy](https://github.com/ReactiveX/RxPY) - 
-A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
 
 ## Testing
 
