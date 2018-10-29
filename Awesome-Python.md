@@ -18,7 +18,6 @@ A curated list of awesome Python frameworks, libraries, software and resources.
   - [Reactive programming](#reactive-programming)
 + [RESTful API](#restful-api)
 + [Testing](#testing)
-+ [Utilities](#utilities)
 + [Web Frameworks](#web-frameworks)
 + [WSGI Servers](#wsgi-servers)
 
