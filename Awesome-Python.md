@@ -10,6 +10,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Concurrency and Parallelism](#concurrency-and-parallelism)
 - [Configuration](#configuration)
 - [Command-line Tools](#command-line-tools)
+- [Event Driven Programming](#event-driven-programming)
 - [GUI](#gui)
 - [HTTP](#http)
 - [Logging](#logging)
@@ -43,6 +44,13 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + Productivity Tools
   - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
   - [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages.
+
+## Event Driven Programming
+
+*Libraries for building event driven software architecture.*
+
++ [paho-mqtt](https://pypi.org/project/paho-mqtt/) - Client for mqtt protocol
++ [pytransitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented state machine implementation in Python.
 
 ## GUI
 
