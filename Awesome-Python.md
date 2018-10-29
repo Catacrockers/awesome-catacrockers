@@ -10,6 +10,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Concurrency and Parallelism](#concurrency-and-parallelism)
 + [Configuration](#configuration)
 + [Command-line Tools](#command-line-tools)
++ [Compatibility](#compatibility)
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
@@ -44,6 +45,14 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + Productivity Tools
   - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
   - [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages.
+
+## Compatibility
+
+*Libraries for migrating from Python 2 to 3.*
+
+* [Python-Future](http://python-future.org/index.html) - The missing compatibility layer between Python 2 and Python 3.
+* [Python-Modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration.
+* [Six](https://pypi.python.org/pypi/six) - Python 2 and 3 compatibility utilities.
 
 ## GUI
 
