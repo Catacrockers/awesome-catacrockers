@@ -54,6 +54,8 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 * [Python-Modernize](https://github.com/mitsuhiko/python-modernize) - Modernizes Python code for eventual Python 3 migration.
 * [Six](https://pypi.python.org/pypi/six) - Python 2 and 3 compatibility utilities.
 
+**⚠️ [Python 2.7 Countdown](https://pythonclock.org/)**
+
 ## GUI
 
 *Libraries for working with graphical user interface applications.*
