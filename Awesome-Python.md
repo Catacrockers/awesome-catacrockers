@@ -59,6 +59,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line.
 - [remi](https://github.com/dddomodossola/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
+- [Kivy](https://github.com/kivy/kivy) - Kivy is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. 
 
 ## HTTP
 
