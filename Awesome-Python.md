@@ -86,7 +86,7 @@ Libraries for working with HTTP.
   
 ## Reactive programming
 
-*Functional Programming with Python.*
+*Reactive Programming with Python.*
 
 - [rxpy](https://github.com/ReactiveX/RxPY) - 
 A library for composing asynchronous and event-based programs using observable collections and LINQ-style query operators in Python.
