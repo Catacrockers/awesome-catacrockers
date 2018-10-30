@@ -14,6 +14,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
++ [ORM](#orm)
 + [Programming Paradigms](#programming-paradigms)
   - [Event Driven Programming](#event-driven-programming)
   - [Reactive programming](#reactive-programming)
@@ -75,6 +76,13 @@ Libraries for working with HTTP.
 
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
+
+## ORM
+
+*Libraries that implement Object-Relational Mapping or data mapping techniques.*
+
++ Relational Databases
+  - [SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper. [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
 
 ## Programming Paradigms
 
