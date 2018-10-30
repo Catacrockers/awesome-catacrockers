@@ -82,11 +82,11 @@ Libraries for working with HTTP.
 *Libraries that implement Object-Relational Mapping or data mapping techniques.*
 
 + Relational Databases
-  - [SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper. [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
+  - [SQLAlchemy](http://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper. 📜 [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
 
 ## Programming Paradigms
 
-## Event Driven Programming
+### Event Driven Programming
 
 *Event driven Programming with Python.*
 
