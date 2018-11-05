@@ -47,6 +47,9 @@ A curated list of awesome Python frameworks, libraries, software and resources.
   - [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
   - [parallel_foreach_submodule (PFS)](https://github.com/RDCH106/parallel_foreach_submodule) - Tool for "git submodule foreach" execution in parallel.
   - [pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages.
+  
++ Terminal Rendering
+  - [colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
 
 ## Compatibility
 
