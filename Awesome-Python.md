@@ -11,6 +11,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Configuration](#configuration)
 + [Command-line Tools](#command-line-tools)
 + [Compatibility](#compatibility)
++ [Data Visualization](#data-visualization)
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
@@ -60,6 +61,12 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 * [Six](https://pypi.python.org/pypi/six) - Python 2 and 3 compatibility utilities.
 
 **⚠️ [Python 2.7 Countdown](https://pythonclock.org/)**
+
+## Data Visualization
+
+*Libraries for visualizing data.*
+
++ [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 
 ## GUI
 
