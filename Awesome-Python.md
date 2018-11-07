@@ -20,6 +20,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
   - [Event Driven Programming](#event-driven-programming)
   - [Reactive programming](#reactive-programming)
 + [RESTful API](#restful-api)
++ [Template Engine](#template-engine)
 + [Testing](#testing)
 + [Web Frameworks](#web-frameworks)
 + [WSGI Servers](#wsgi-servers)
@@ -122,6 +123,12 @@ A library for composing asynchronous and event-based programs using observable c
 + Framework agnostic
   - [falcon](http://falconframework.org/) - A high-performance framework for building cloud APIs and web app backends.
   - [hug](https://github.com/timothycrosley/hug) - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
+
+## Template Engine
+
+*Libraries and tools for templating and lexing.*
+
+- [Jinja2](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ## Testing
 
