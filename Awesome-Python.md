@@ -13,6 +13,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Compatibility](#compatibility)
 + [Data Visualization](#data-visualization)
 + [Distribution](#distribution)
++ [Editor Plugins and IDEs](#editor-plugins-and-ides)
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
@@ -76,6 +77,13 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 - [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
 - [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
+
+## Editor Plugins and IDEs
+
+*Plugins and IDEs for Python development*
+
++ IDE
+  - [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
 
 ## GUI
 
