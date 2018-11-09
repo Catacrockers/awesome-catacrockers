@@ -25,17 +25,17 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Web Frameworks](#web-frameworks)
 + [WSGI Servers](#wsgi-servers)
 
-## Concurrency and parallelism
-
-*Libraries for concurrent and parallel execution.*
-
-- [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
-
 ## Code Analysis
 
 *Tools of static analysis, linters and code quality checkers.*
 
 - [Pylint](https://www.pylint.org/) - A fully customizable source code analyzer. Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+
+## Concurrency and parallelism
+
+*Libraries for concurrent and parallel execution.*
+
+- [gevent](http://www.gevent.org/) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 
 ## Configuration
 
