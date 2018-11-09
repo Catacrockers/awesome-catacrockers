@@ -75,6 +75,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 *Libraries to create packaged executables for release distribution.*
 
 - [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
+- [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Converts Python programs into stand-alone executables (cross-platform).
 
 ## GUI
 
