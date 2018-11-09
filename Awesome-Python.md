@@ -82,6 +82,9 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 *Plugins and IDEs for Python development*
 
++ Visual Studio
+  - [PTVS](https://github.com/Microsoft/PTVS) - Python Tools for Visual Studio.
+
 + IDE
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
   - [Spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE and Scientific Python Development Environment.
