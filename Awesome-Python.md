@@ -12,6 +12,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Command-line Tools](#command-line-tools)
 + [Compatibility](#compatibility)
 + [Data Visualization](#data-visualization)
++ [Distribution](#distribution)
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
@@ -67,7 +68,13 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 *Libraries for visualizing data.*
 
-+ [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
+- [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
+
+## Distribution
+
+*Libraries to create packaged executables for release distribution.*
+
+- [py2exe](http://www.py2exe.org/) - Freezes Python scripts (Windows).
 
 ## GUI
 
@@ -102,8 +109,8 @@ Libraries for working with HTTP.
 
 *Event driven Programming with Python.*
 
-+ [paho-mqtt](https://pypi.org/project/paho-mqtt/) - Client for mqtt protocol
-+ [pytransitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented state machine implementation in Python.
+- [paho-mqtt](https://pypi.org/project/paho-mqtt/) - Client for mqtt protocol
+- [pytransitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented state machine implementation in Python.
 
 ### Reactive Programming
 
