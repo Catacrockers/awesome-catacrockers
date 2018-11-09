@@ -84,6 +84,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 
 + IDE
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Commercial Python IDE by JetBrains. Has free community edition available.
+  - [Spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE and Scientific Python Development Environment.
 
 ## GUI
 
