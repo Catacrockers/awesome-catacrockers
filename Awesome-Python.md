@@ -17,6 +17,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [GUI](#gui)
 + [HTTP](#http)
 + [Logging](#logging)
++ [Machine Learning](#machine-learning)
 + [ORM](#orm)
 + [Programming Paradigms](#programming-paradigms)
   - [Event Driven Programming](#event-driven-programming)
@@ -109,6 +110,12 @@ Libraries for working with HTTP.
 
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [structlog](https://github.com/hynek/structlog) - makes logging in Python less painful and more powerful by adding structure to your log entries.
+
+## Machine Learning
+
+*Libraries for Machine Learning.*
+
+* [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 
 ## ORM
 
