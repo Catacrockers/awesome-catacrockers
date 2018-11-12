@@ -156,6 +156,7 @@ A library for composing asynchronous and event-based programs using observable c
 
 + Testing Frameworks
   - [Pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool. The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
+  - [Pytest-mock](https://github.com/pytest-dev/pytest-mock/) - This plugin installs a mocker fixture which is a thin-wrapper around the patching API provided by the mock package, but with the benefit of not having to worry about undoing patches at the end of a test.
 + GUI / Web Testing
   - [PyAutoGUI](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
 
