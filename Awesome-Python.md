@@ -32,6 +32,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 *Tools of static analysis, linters and code quality checkers.*
 
 - [Pylint](https://www.pylint.org/) - A fully customizable source code analyzer. Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+- [Coverage](https://pypi.org/project/coverage/) - Coverage.py measures code coverage, typically during test execution. It uses the code analysis tools and tracing hooks provided in the Python standard library to determine which lines are executable, and which have been executed.
 
 ## Concurrency and parallelism
 
