@@ -12,6 +12,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 + [Command-line Tools](#command-line-tools)
 + [Compatibility](#compatibility)
 + [Data Visualization](#data-visualization)
++ [Debugging Tools](#debugging-tools)
 + [Distribution](#distribution)
 + [Editor Plugins and IDEs](#editor-plugins-and-ides)
 + [GUI](#gui)
@@ -72,6 +73,13 @@ A curated list of awesome Python frameworks, libraries, software and resources.
 *Libraries for visualizing data.*
 
 - [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
+
+## Debugging Tools
+
+*Libraries for debugging code.*
+
++ Profiler
+  - [vprof](https://github.com/nvdv/vprof) - Visual Python profiler.
 
 ## Distribution
 
